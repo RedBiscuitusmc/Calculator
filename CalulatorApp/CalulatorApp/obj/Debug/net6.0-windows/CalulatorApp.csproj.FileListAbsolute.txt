@@ -1,0 +1,34 @@
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.exe
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.deps.json
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.pdb
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.Calculator.resources
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.csproj.GenerateResource.cache
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\refint\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.pdb
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\Beginner_rep\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\ref\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.exe
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.deps.json
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\bin\Debug\net6.0-windows\CalulatorApp.pdb
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.Calculator.resources
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.csproj.GenerateResource.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\refint\CalulatorApp.dll
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.pdb
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\CalulatorApp.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\My Project Repo\CalulatorApp\CalulatorApp\obj\Debug\net6.0-windows\ref\CalulatorApp.dll
